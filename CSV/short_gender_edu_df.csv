@@ -1,0 +1,39 @@
+Gender,EdLevel,Count
+Man,Associate degree,357
+Man,"Bachelor’s degree (BA, BS, B.Eng., etc.)",5341
+Man,I never completed any formal education,26
+Man,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",2484
+Man,"Other doctoral degree (Ph.D, Ed.D., etc.)",241
+Man,Primary/elementary school,26
+Man,"Professional degree (JD, MD, etc.)",144
+Man,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",482
+Man,Some college/university study without earning a degree,1280
+Man;Non-binary,Associate degree,1
+Man;Non-binary,"Bachelor’s degree (BA, BS, B.Eng., etc.)",14
+Man;Non-binary,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",5
+Man;Non-binary,Some college/university study without earning a degree,5
+Non-binary,Associate degree,1
+Non-binary,"Bachelor’s degree (BA, BS, B.Eng., etc.)",36
+Non-binary,I never completed any formal education,1
+Non-binary,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",7
+Non-binary,"Other doctoral degree (Ph.D, Ed.D., etc.)",2
+Non-binary,"Professional degree (JD, MD, etc.)",1
+Non-binary,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",1
+Non-binary,Some college/university study without earning a degree,13
+Woman,Associate degree,20
+Woman,"Bachelor’s degree (BA, BS, B.Eng., etc.)",412
+Woman,I never completed any formal education,1
+Woman,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",191
+Woman,"Other doctoral degree (Ph.D, Ed.D., etc.)",15
+Woman,"Professional degree (JD, MD, etc.)",8
+Woman,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",24
+Woman,Some college/university study without earning a degree,50
+Woman;Man,"Bachelor’s degree (BA, BS, B.Eng., etc.)",6
+Woman;Man,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",1
+Woman;Man,"Professional degree (JD, MD, etc.)",1
+Woman;Man,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",1
+Woman;Man;Non-binary,"Bachelor’s degree (BA, BS, B.Eng., etc.)",2
+Woman;Non-binary,"Bachelor’s degree (BA, BS, B.Eng., etc.)",8
+Woman;Non-binary,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",2
+Woman;Non-binary,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",1
+Woman;Non-binary,Some college/university study without earning a degree,3
