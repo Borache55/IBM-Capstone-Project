@@ -1,9 +1,9 @@
 # IBM-Capstone-Project
-IBM Data Analyst Capstone Project
-Final Presentation
+IBM Data Analyst Capstone Project.
+Final Presentation.
 Data Jupyter Notebooks with procedures for each question.
-
-Presentation in PDF
+if you don't have access to IBM Cloud, CSV data ready for visualization in Cognos.
+Presentation in PDF.
 Peer-graded Assignment Rubric:
   1.  Has the learner uploaded the completed pdf file named DataAnalystPresentation.pdf and can you open it?
   2.  Has the learner correctly filled in the Title slide?
